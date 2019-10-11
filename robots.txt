@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://awuungoora.mattlopezdev.com/sitemap.xml
